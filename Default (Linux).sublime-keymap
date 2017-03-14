@@ -1,0 +1,16 @@
+[{
+  "keys": ["ctrl+shift+f"],
+  "command": "vueformatter"
+}, {
+  "keys": ["ctrl+alt+f", "p"],
+  "command": "vueformatter_set_formatter_prefs"
+}, {
+  "keys": ["ctrl+alt+f", "o"],
+  "command": "vueformatter_set_plugin_options"
+}, {
+  "keys": ["ctrl+alt+f", "k"],
+  "command": "vueformatter_set_keyboard_shortcuts"
+}, {
+  "keys": ["ctrl+alt+f", "n"],
+  "command": "vueformatter_set_node_path"
+}]

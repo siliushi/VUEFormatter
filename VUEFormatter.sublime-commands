@@ -1,0 +1,16 @@
+[{
+  "caption": "VUEFormatter",
+  "command": "vueformatter"
+}, {
+  "caption": "VUEFormatter: Set Formatter Preferences",
+  "command": "vueformatter_set_formatter_prefs"
+}, {
+  "caption": "VUEFormatter: Set Plugin Options",
+  "command": "vueformatter_set_plugin_options"
+}, {
+  "caption": "VUEFormatter: Set Keyboard Shortcuts",
+  "command": "vueformatter_set_keyboard_shortcuts"
+}, {
+  "caption": "VUEFormatter: Set `node` Path",
+  "command": "vueformatter_set_node_path"
+}]

@@ -1,0 +1,47 @@
+[{
+  "id": "tools",
+  "children": [{
+    "id": "vueformatter_tools",
+    "caption": "VUE Formatter",
+    "children": [{
+      "caption": "Formatter Code",
+      "command": "vueformatter"
+    }, {
+      "caption": "Set Formatter Preferences",
+      "command": "vueformatter_set_formatter_prefs"
+    }, {
+      "caption": "Set Plugin Options",
+      "command": "vueformatter_set_plugin_options"
+    }, {
+      "caption": "Set Keyboard Shortcuts",
+      "command": "vueformatter_set_keyboard_shortcuts"
+    }, {
+      "caption": "Set `node` Path",
+      "command": "vueformatter_set_node_path"
+    }]
+  }]
+}, {
+  "id": "preferences",
+  "children": [{
+    "id": "package-settings",
+    "children": [{
+      "caption": "VUE Formatter",
+      "children": [{
+        "caption": "Formate Code",
+        "command": "vueformatter"
+      }, {
+        "caption": "Set Formatter Preferences",
+        "command": "vueformatter_set_formatter_prefs"
+      }, {
+        "caption": "Set Plugin Options",
+        "command": "vueformatter_set_plugin_options"
+      }, {
+        "caption": "Set Keyboard Shortcuts",
+        "command": "vueformatter_set_keyboard_shortcuts"
+      }, {
+        "caption": "Set `node` Path",
+        "command": "vueformatter_set_node_path"
+      }]
+    }]
+  }]
+}]
