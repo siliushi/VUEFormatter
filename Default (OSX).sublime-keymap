@@ -1,16 +1,16 @@
 [{
-  "keys": ["super+shift+f"],
+  "keys": ["super+shift+g"],
   "command": "vueformatter"
 }, {
-  "keys": ["super+alt+f", "p"],
+  "keys": ["super+alt+g", "p"],
   "command": "vueformatter_set_formatter_prefs"
 }, {
-  "keys": ["super+alt+f", "o"],
+  "keys": ["super+alt+g", "o"],
   "command": "vueformatter_set_plugin_options"
 }, {
-  "keys": ["super+alt+f", "k"],
+  "keys": ["super+alt+g", "k"],
   "command": "vueformatter_set_keyboard_shortcuts"
 }, {
-  "keys": ["super+alt+f", "n"],
+  "keys": ["super+alt+g", "n"],
   "command": "vueformatter_set_node_path"
 }]

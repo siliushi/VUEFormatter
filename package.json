@@ -1,11 +1,11 @@
 {
-    "schema_version": "1.0",
+    "schema_version": "1.0.1",
     "packages": [{
         "name": "VueFormatter",
         "description": "formatter the extension file of vue",
         "author": "keven",
         "homepage": "https://github.com/baixuexiyang/VUEFormatter",
-        "last_modified": "2017-03-14 13:44:00",
+        "last_modified": "2017-04-10 13:44:00",
         "platforms": {
             "*": [{
                 "version": "1.0",
