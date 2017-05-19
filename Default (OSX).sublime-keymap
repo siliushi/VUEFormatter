@@ -1,5 +1,5 @@
 [{
-  "keys": ["super+shift+g"],
+  "keys": ["super+shift+o"],
   "command": "vueformatter"
 }, {
   "keys": ["super+alt+g", "p"],
