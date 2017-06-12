@@ -8,7 +8,16 @@ This is a Sublime Text 2 and 3 plugin allowing you to format your vue code.
 
 ## Installation
 
-* `Ctrl+Shift+P` or `Cmd+Shift+P` in Linux/Windows/OS X
-* type `install`, select `Package Control: Install Package`
-* type `VUEFormatter`, select `VUEFormatter`
 
+
+Mac
+
+git clone https://github.com/baixuexiyang/VUEFormatter.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/VUEFormatter
+
+Linux
+
+git clone https://github.com/baixuexiyang/VUEFormatter.git ~/.config/sublime-text-3/Packages/VUEFormatter
+
+Windows
+
+git clone https://github.com/baixuexiyang/VUEFormatter.git %APPDATA%/Sublime\ Text\ 3/Packages/VUEFormatter
